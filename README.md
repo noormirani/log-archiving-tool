@@ -1,5 +1,6 @@
 # log-archiving-tool
-Log Archiving Tool
+
+
 This tool archives and compresses log files from a specified directory and stores them in a compressed .tar.gz format with a timestamp. It also logs the date and time of each archive action. This project helps keep your system organized by compressing and archiving old logs on demand.
 
 Features:
