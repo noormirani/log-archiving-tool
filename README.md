@@ -8,9 +8,12 @@ Accepts a log directory as a command-line argument.
 Compresses the log files into .tar.gz format.
 Archives logs into a specified or default directory.
 Logs the date and time of each archive operation into a log file.
+
 Requirements:
 Unix-based system (Linux, macOS).
+
 Python 3 installed.
+
 Installation:
 Clone the repository:
 
@@ -56,6 +59,7 @@ Notes:
 The script uses the tar format to compress the logs.
 It automatically names the archive files using the current date and time (e.g., logs_archive_20241014_123456.tar.gz).
 Make sure you have the necessary permissions to access the log directory and create archives.
+
 
 Example Output:
 The archive will be saved as:
